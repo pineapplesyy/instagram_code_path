@@ -2,7 +2,7 @@
 //  PostCell.swift
 //  Instagram
 //
-//  Created by Winnie She on 3/3/22.
+//  Created by Sam Wang on 3/3/22.
 //
 
 import UIKit
